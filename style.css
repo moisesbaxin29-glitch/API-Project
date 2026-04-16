@@ -1,8 +1,8 @@
 
 body{
     text-align:center;
-    background-color: black;
-    color: orange;
+    background-color: #E6F082;
+    color: #454040;
 }
 
  @media (max-width:768px){
